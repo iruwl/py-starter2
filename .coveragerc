@@ -1,0 +1,3 @@
+[run]
+source = starter2
+omit = starter2/test*
